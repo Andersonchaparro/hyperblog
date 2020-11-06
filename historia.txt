@@ -3,3 +3,4 @@ tengo 55 años
 
 Su estilo de vida es.....
 Su maestria esta basada en ciencias espaciales. ¡Quéeeeeeeeee!
+probemos el comando git reset con sus variantes
